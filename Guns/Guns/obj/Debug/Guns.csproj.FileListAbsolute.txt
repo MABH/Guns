@@ -1,0 +1,7 @@
+C:\Users\Miguel Angel\source\repos\Guns\Guns\bin\Debug\Guns.exe.config
+C:\Users\Miguel Angel\source\repos\Guns\Guns\bin\Debug\Guns.exe
+C:\Users\Miguel Angel\source\repos\Guns\Guns\bin\Debug\Guns.pdb
+C:\Users\Miguel Angel\source\repos\Guns\Guns\obj\Debug\Guns.csprojAssemblyReference.cache
+C:\Users\Miguel Angel\source\repos\Guns\Guns\obj\Debug\Guns.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\source\repos\Guns\Guns\obj\Debug\Guns.exe
+C:\Users\Miguel Angel\source\repos\Guns\Guns\obj\Debug\Guns.pdb
